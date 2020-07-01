@@ -1,0 +1,10 @@
+var peso = 27
+var sandwich = 2
+var futbol = 1
+peso += sandwich
+peso -= futbol
+var precio = 200.3
+var cantidad = 3
+var total = precio*cantidad
+var fixTotal = (precio*100)*3/100
+var matchTotal = Math.round( (precio*100)*3)/100
